@@ -1,1 +1,2 @@
 # planetary_diversity/localisation
+planetary diversity模组的汉化，基于贴吧汉化而不是官中
