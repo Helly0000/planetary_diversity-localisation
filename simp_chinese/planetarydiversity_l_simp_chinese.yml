@@ -764,13 +764,13 @@
  pdterra.01.desc.2:0 "$anomaly.2575.desc.intro$\n\nThe energy costs would be daunting, but we do have the technology to gradually terraform this [From.GetPlanetMoon] into something that would support life once again."
  
  ###PD Special Depsoits
- d_crystal_pillars:0 "晶体 Pillars"
+ d_crystal_pillars:0 "晶体柱"
  d_crystal_pillars_desc:0 "These giant crystal pillars can be found in deposits all over the surface, they are highly valuable and help improve food growth."
  building_pdcrystal_mines:0 "Acean Crystal Mines"
  building_pdcrystal_mines_desc:0 "These mines collect the valuable crystals from the pillars, and it's by-products help the near by farms be more effient."
  mod_building_pdcrystal_mines_max:0 "Max $building_pdcrystal_mines$"
 
- d_floating_islands:0 "浮空 Islands"
+ d_floating_islands:0 "浮空岛"
  d_floating_islands_desc:0 "While Eludium is found in all the floating rock of this planet, certain deposits are in high enough quanity to have perminant mining bases on."
  building_eludium_mines:0 "Eludium Refinery"
  building_eludium_mines_desc:0 "The valuable Eludium is mined here, most it goes into consumer goods but the extra is sent to labratories in the area."
