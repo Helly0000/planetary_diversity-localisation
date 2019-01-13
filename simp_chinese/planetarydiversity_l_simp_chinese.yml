@@ -830,7 +830,7 @@
  pdfloating.41.desc:0 "尽管有一些抗议活动，撤离仍然是成功的。一旦我们建造了适当的采矿设施，岛屿就会发生碰撞，并且可以开采零重素。"
  pdfloating.41.a:0 "我们感谢您的牺牲。"
  relocationprotest:0 "抗议搬迁"
- relocationprotest_desc:0 “重新安置人口并让岛屿撞成一个大坑已经在星球上造成了一些暂时的骚乱。"
+ relocationprotest_desc:0 "重新安置人口并让岛屿撞成一个大坑已经在星球上造成了一些暂时的骚乱。"
  pdfloating.42.name:0 "太悲剧了"
  pdfloating.42.desc:0 "在过去的一年里，我们秘密地移出了任何有价值的东西，让这些岛屿相互撞击。 正如我们所希望的那样，零重素已经露了出来，我们可以在建成基础设施后开始采矿。"
  pdfloating.42.a:0 "现在希望没有人发现。"
@@ -893,7 +893,7 @@
  pdgraveyard.34.desc:0 "似乎不允许缇杨凯击中星球表面对生态系统产生了不利影响。大多数植物生命依赖于缇杨凯的物质不断流转，我们破坏了这个世界的自然秩序。"
  pdgraveyard.34.a:0 "这是我们为安全付出的代价。"
  
- NAME_Mushroom:0 “蘑菇突变体"
+ NAME_Mushroom:0 "蘑菇突变体"
  d_hunterreserve:0 "猎头族保留地"
  d_hunterreserve_desc:0 "猎头族保留地使殖民地更加安全，但维护费用昂贵，并占据大片可耕地。"
 
